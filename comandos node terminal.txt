@@ -1,0 +1,9 @@
+|||||||| COMANDOS NODE TERMINAL ||||||||
+
+node .\server.js => roda o servidor
+
+
+
+
+
+
